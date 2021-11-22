@@ -1,6 +1,8 @@
 # Limmy-measure-body-dimensions
 A small machine vision project that detects and measures the dimensions of a person.
 
+NOTE: Training data not included. If you would like a copy of the training I used, please feel free to contact me!
+
 
 
 Project Proposal
